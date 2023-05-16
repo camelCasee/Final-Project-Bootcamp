@@ -1,0 +1,86 @@
+[
+    {
+        "userId": "user-1",
+        "name": "Peter Pan",
+        "email": "peter@pan.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-2",
+        "name": "Wendy Darling",
+        "email": "wendy@darling.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-3",
+        "name": "luffy",
+        "email": "one@piece.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-4",
+        "name": "pepito grillo",
+        "email": "pepito@grillo.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-5",
+        "name": "para lelepipedo",
+        "email": "para@lelepipedo.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-6",
+        "name": "Roronoa zoro",
+        "email": "second@piece.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-7",
+        "name": "Maria Delgado",
+        "email": "marida@delgado.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-8",
+        "name": "Sonia Prieto",
+        "email": "sonia@prieto.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-9",
+        "name": "Saitama",
+        "email": "onepunch@man.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-10",
+        "name": "Pedro Perez",
+        "email": "pedro@perez.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-11",
+        "name": "Lucho Mario",
+        "email": "lucho@mario.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-12",
+        "name": "pamela albornoz",
+        "email": "pamela@albornoz.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-13",
+        "name": "ignacio domingo",
+        "email": "ignacio@gmail.com",
+        "password": "123123123"
+    },
+    {
+        "userId": "user-14",
+        "name": "chavo delocho",
+        "email": "chavo@delocho.com",
+        "password": "123123123"
+    }
+]
